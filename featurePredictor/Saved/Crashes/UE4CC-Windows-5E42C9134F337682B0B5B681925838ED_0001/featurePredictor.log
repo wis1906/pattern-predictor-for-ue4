@@ -1,0 +1,1370 @@
+﻿Log file open, 09/02/19 15:39:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: featurePredictor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(235995061) SRandInit(235995061).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.335263
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OpenCV410
+LogStreaming: Display: Took  0.176s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file D:/Unreal_Project/4.19.2/featurePredictor/Binaries/Win64/UE4Editor-featurePredictor-3497.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Warning: Module file D:/Unreal_Project/4.19.2/featurePredictor/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410-8814.dll is missing. This is likely a stale module that must be recompiled.
+LogInit: Warning: Incompatible or missing module: UE4Editor-OpenCV410.dll
+Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe featurePredictor Development Win64 -project="D:/Unreal_Project/4.19.2/featurePredictor/featurePredictor.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Creating makefile for featurePredictor (ini files are newer than UBTMakefile)
+@progress push 5%
+@progress pop
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\featurePredictor\Binaries\Win64\UE4Editor-featurePredictor-2214.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\featurePredictor\Binaries\Win64\UE4Editor-featurePredictor-2214.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\featurePredictor\Binaries\Win64\UE4Editor-featurePredictor-3497.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\featurePredictor\Binaries\Win64\UE4Editor-featurePredictor-3497.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\featurePredictor\Binaries\Win64\UE4Editor-featurePredictor-4108.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\featurePredictor\Binaries\Win64\UE4Editor-featurePredictor-4108.pdb".
+Performing 2 actions (4 in parallel)
+[1/2] Link UE4Editor-featurePredictor.dll
+[2/2] Link UE4Editor-featurePredictor.lib
+   D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor.lib ???̺귯?? ?? D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+   D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor.suppressed.lib ???̺귯?? ?? D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+Total build time: 36.34 seconds (Local executor: 2.03 seconds)
+LogModuleManager: Display: Found up-to-date module file D:/Unreal_Project/4.19.2/featurePredictor/Binaries/Win64/UE4Editor-featurePredictor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file D:/Unreal_Project/4.19.2/featurePredictor/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-NSALLV0 (10.80.76.130:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.09.02-06.40.33:778][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-06.40.33:778][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.02-06.40.34:043][  0]LogInit: Computer: DESKTOP-NSALLV0
+[2019.09.02-06.40.34:043][  0]LogInit: User: KISIK
+[2019.09.02-06.40.34:043][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.02-06.40.34:043][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.02-06.40.34:044][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.09.02-06.40.34:044][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.02-06.40.34:044][  0]LogMemory: Process Physical Memory: 282.90 MB used, 282.91 MB peak
+[2019.09.02-06.40.34:044][  0]LogMemory: Process Virtual Memory: 265.95 MB used, 265.95 MB peak
+[2019.09.02-06.40.34:044][  0]LogMemory: Physical Memory: 6804.85 MB used,  9560.31 MB free, 16365.16 MB total
+[2019.09.02-06.40.34:044][  0]LogMemory: Virtual Memory: 4831.10 MB used,  9560.31 MB free, 134217728.00 MB total
+[2019.09.02-06.40.34:116][  0]LogInit: Using OS detected language (ko-KR).
+[2019.09.02-06.40.34:116][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.09.02-06.40.34:172][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.09.02-06.40.34:720][  0]LogStreaming: Display: Took  0.604s to EndInitTextLocalization.
+[2019.09.02-06.40.34:720][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.02-06.40.34:833][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.02-06.40.34:833][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.02-06.40.37:315][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.02-06.40.37:415][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.09.02-06.40.37:415][  0]LogD3D11RHI:       1987/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.09.02-06.40.37:420][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.02-06.40.37:420][  0]LogD3D11RHI:       0/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.02-06.40.37:420][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.02-06.40.37:427][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.02-06.40.37:427][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.02-06.40.37:427][  0]LogWindows: EnumDisplayDevices:
+[2019.09.02-06.40.37:428][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.09.02-06.40.37:429][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.09.02-06.40.37:430][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.09.02-06.40.37:432][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.09.02-06.40.37:433][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.02-06.40.37:433][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.09.02-06.40.37:433][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.02-06.40.37:433][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.02-06.40.37:433][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2019.09.02-06.40.37:513][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2019.09.02-06.40.37:513][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.09.02-06.40.37:513][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.02-06.40.37:526][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.02-06.40.37:620][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (D:/Unreal_Project/4.19.2/featurePredictor/Intermediate/Shaders/WorkingDirectory/14520/).
+[2019.09.02-06.40.37:621][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KISIK/AppData/Local/Temp/UnrealShaderWorkingDir/24695CBF476791016E1F609652086DD2/'.
+[2019.09.02-06.40.38:037][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.09.02-06.40.38:079][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.09.02-06.40.38:117][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.09.02-06.40.38:147][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.09.02-06.40.38:182][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.09.02-06.40.38:206][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.09.02-06.40.38:227][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.09.02-06.40.38:249][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.09.02-06.40.38:261][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.09.02-06.40.38:279][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.09.02-06.40.38:298][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.09.02-06.40.38:316][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.09.02-06.40.38:335][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.09.02-06.40.38:354][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.09.02-06.40.38:372][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.09.02-06.40.38:408][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.09.02-06.40.38:408][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.09.02-06.40.38:430][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.02-06.40.38:434][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.09.02-06.40.38:488][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.02-06.40.38:518][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.02-06.40.38:536][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.09.02-06.40.38:552][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.09.02-06.40.38:568][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.09.02-06.40.38:589][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.09.02-06.40.38:589][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.02-06.40.38:911][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.02-06.40.38:911][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.02-06.40.38:911][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.02-06.40.41:248][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.02-06.40.41:705][  0]LogDerivedDataCache: Loaded boot cache 0.46s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.09.02-06.40.41:705][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.09.02-06.40.41:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal_Project/4.19.2/featurePredictor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.02-06.40.41:705][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.02-06.40.41:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal_Project/4.19.2/featurePredictor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.02-06.40.41:705][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.02-06.40.41:726][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.02-06.40.41:740][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KISIK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.02-06.40.41:740][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.02-06.40.41:740][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.02-06.40.41:752][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.02-06.40.41:753][  0]LogSlate: Using Freetype 2.6.0
+[2019.09.02-06.40.41:754][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.02-06.40.41:754][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.02-06.40.42:293][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2019.09.02-06.40.42:721][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-06.40.43:006][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.09.02-06.40.43:023][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.09.02-06.40.43:023][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.02-06.40.43:023][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.09.02-06.40.43:023][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.09.02-06.40.43:023][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.09.02-06.40.43:108][  0]LogNetVersion: featurePredictor , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2695221356)
+[2019.09.02-06.40.43:736][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.113630 seconds
+[2019.09.02-06.40.43:742][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.09.02-06.40.43:742][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.09.02-06.40.43:742][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.02-06.40.48:867][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.02-06.40.48:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.02-06.40.50:309][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.09.02-06.40.50:309][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.09.02-06.40.50:368][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.09.02-06.40.50:425][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.09.02-06.40.51:746][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.02-06.40.52:536][  0]LogOcInput: OculusInput pre-init called
+[2019.09.02-06.40.52:850][  0]LogEngine: Initializing Engine...
+[2019.09.02-06.40.52:854][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.02-06.40.52:855][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.02-06.40.52:856][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.02-06.40.53:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.02-06.40.53:376][  0]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-06.40.53:465][  0]LogInit: FAudioDevice initialized.
+[2019.09.02-06.40.53:562][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.09.02-06.40.53:584][  0]LogInit: Texture streaming: Enabled
+[2019.09.02-06.40.53:641][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.02-06.40.53:642][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D704FC42-4215-87E7-A008-C0AEB43C7231}
+[2019.09.02-06.40.53:687][  0]LogInit: Transaction tracking system initialized
+[2019.09.02-06.40.53:763][  0]BlueprintLog: New page: 에디터 로드
+[2019.09.02-06.40.53:975][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.09.02-06.40.54:486][  0]LogConsoleResponse: Display: 
+[2019.09.02-06.40.54:690][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.02-06.40.54:690][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.02-06.40.54:690][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.02-06.40.54:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.02-06.40.54:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.02-06.40.54:696][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/featurePredictor/Content/' took 0.01s
+[2019.09.02-06.40.55:889][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2019.09.02-06.40.55:889][  0]Cmd: MAP LOAD FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.02-06.40.55:890][  0]LightingResults: New page: 라이팅 빌드
+[2019.09.02-06.40.55:897][  0]MapCheck: New page: 맵 체크
+[2019.09.02-06.40.55:897][  0]LightingResults: New page: 라이팅 빌드
+[2019.09.02-06.40.56:115][  0]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-06.40.56:121][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.02-06.40.56:134][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.02-06.40.56:288][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 154.195ms.
+[2019.09.02-06.40.56:289][  0]LogFileHelpers: Loading map 'defaultMap' took 0.399
+[2019.09.02-06.40.56:642][  0]LogCollectionManager: Loaded 0 collections in 0.005011 seconds
+[2019.09.02-06.40.56:729][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Collections/' took 0.01s
+[2019.09.02-06.40.56:729][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Developers/KISIK/Collections/' took 0.01s
+[2019.09.02-06.40.56:729][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Collections/' took 0.01s
+[2019.09.02-06.40.56:729][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.02-06.40.56:746][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2453 classes and 560 folders.
+[2019.09.02-06.40.56:768][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0022 seconds. Added 0 classes and 0 folders.
+[2019.09.02-06.40.57:380][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0022 seconds. Added 0 classes and 0 folders.
+[2019.09.02-06.40.57:397][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2019.09.02-06.40.57:477][  0]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.02-06.40.57:503][  0]LogSlate: Took 0.023465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.09.02-06.40.57:529][  0]LogSlate: Took 0.025129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.09.02-06.40.57:529][  0]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.02-06.40.57:541][  0]LogSlate: Took 0.006948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.02-06.40.57:663][  0]LogRenderer: Reallocating scene render targets to support 1208x552 Format 9 NumSamples 1 (Frame:1).
+[2019.09.02-06.40.57:716][  0]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-06.40.57:796][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2019.09.02-06.40.57:796][  0]LogLoad: (Engine Initialization) Total time: 79.67 seconds
+[2019.09.02-06.40.57:796][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.02-06.40.57:831][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.09.02-06.40.57:886][  1]LogAssetRegistry: Asset discovery search completed in 15.6154 seconds
+[2019.09.02-06.40.57:888][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.02-06.40.57:888][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000120 seconds (updated 0 objects)
+[2019.09.02-06.40.58:716][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-06.41.02:515][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.09.02-06.41.07:364][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-06.41.13:288][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-06.41.17:860][830]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.02-06.41.36:639][ 74]LogHotReload: New module detected: UE4Editor-featurePredictor-3821.dll
+[2019.09.02-06.41.38:345][ 80]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.02-06.41.38:372][ 80]LogSlate: Took 0.000572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-06.41.38:768][ 80]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2019.09.02-06.41.38:770][ 80]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-06.41.38:891][ 80]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2454 classes and 562 folders.
+[2019.09.02-06.41.38:913][ 80]Display: HotReload took  0.6s.
+[2019.09.02-06.42.17:648][939]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.09.02-06.42.17:657][939]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.09.02-06.42.20:241][193]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2019.09.02-06.42.20:616][193]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8eae6188, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.09.02-06.42.20:616][193]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8eae6150, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.09.02-06.42.26:983][691]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.09.02-06.42.26:988][691]Cmd: MAP LOAD FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.02-06.42.26:990][691]LightingResults: New page: 라이팅 빌드
+[2019.09.02-06.42.26:991][691]LoadErrors: New page: 맵 로드중: defaultMap.umap
+[2019.09.02-06.42.26:992][691]MapCheck: New page: 맵 체크
+[2019.09.02-06.42.26:992][691]LightingResults: New page: 라이팅 빌드
+[2019.09.02-06.42.27:022][691]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-06.42.27:088][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.02-06.42.27:138][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.02-06.42.27:324][691]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 185.499ms.
+[2019.09.02-06.42.27:327][691]LogFileHelpers: Loading map 'defaultMap' took 0.340
+[2019.09.02-06.42.29:560][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-06.42.37:035][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-06.42.39:893][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-06.43.33:373][183]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오전 12:43:33
+[2019.09.02-06.43.33:390][184]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2_Low.jpg)
+[2019.09.02-06.43.33:447][185]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/PatternPic.jpg)
+[2019.09.02-06.43.39:200][186]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1.jpg)
+[2019.09.02-06.43.39:788][187]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1_Low.jpg)
+[2019.09.02-06.43.39:823][188]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2.jpg)
+[2019.09.02-06.43.40:558][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Pattern2_Low" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2_Low.uasset" SILENT=true
+[2019.09.02-06.43.40:593][189]LogSavePackage: Save=31.45ms
+[2019.09.02-06.43.40:593][189]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Pattern2_Low3A4274DE4B9A03782D6537ADC09D1CAF.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2_Low.uasset'
+[2019.09.02-06.43.40:599][189]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2_Low.uasset
+[2019.09.02-06.43.40:609][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PatternPic" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/PatternPic.uasset" SILENT=true
+[2019.09.02-06.43.41:973][189]LogSavePackage: Save=1361.49ms
+[2019.09.02-06.43.41:973][189]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/PatternPic5791CBD240A33A41B2CB7AAD1D52CDB1.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/PatternPic.uasset'
+[2019.09.02-06.43.41:976][189]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/PatternPic.uasset
+[2019.09.02-06.43.41:988][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Pattern1" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1.uasset" SILENT=true
+[2019.09.02-06.43.42:100][189]LogSavePackage: Save=108.37ms
+[2019.09.02-06.43.42:100][189]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Pattern14EDC4DB44DA71D48B8CA2AAE3CBF6A40.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1.uasset'
+[2019.09.02-06.43.42:107][189]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1.uasset
+[2019.09.02-06.43.42:129][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Pattern1_Low" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1_Low.uasset" SILENT=true
+[2019.09.02-06.43.42:164][189]LogSavePackage: Save=31.77ms
+[2019.09.02-06.43.42:164][189]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Pattern1_LowA491668D4401B4AC418CD68F0B833ED3.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1_Low.uasset'
+[2019.09.02-06.43.42:167][189]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern1_Low.uasset
+[2019.09.02-06.43.42:181][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Pattern2" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2.uasset" SILENT=true
+[2019.09.02-06.43.42:295][189]LogSavePackage: Save=110.67ms
+[2019.09.02-06.43.42:295][189]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Pattern20A8F8B14466A5C2104EF23A23A985547.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2.uasset'
+[2019.09.02-06.43.42:297][189]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Images/Pattern2.uasset
+[2019.09.02-06.43.45:310][519]AssetReimport: /Game/Images/Pattern2_Low 새 애셋 임포트중.
+[2019.09.02-06.43.45:310][519]AssetReimport: /Game/Images/PatternPic 새 애셋 임포트중.
+[2019.09.02-06.43.45:310][519]AssetReimport: /Game/Images/Pattern1 새 애셋 임포트중.
+[2019.09.02-06.43.45:310][519]AssetReimport: /Game/Images/Pattern1_Low 새 애셋 임포트중.
+[2019.09.02-06.43.45:310][519]AssetReimport: /Game/Images/Pattern2 새 애셋 임포트중.
+[2019.09.02-06.44.03:423][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-06.44.03:482][595]LogSavePackage: Save=30.76ms
+[2019.09.02-06.44.03:482][595]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap569102B948794F2FB4B600885F517040.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-06.44.03:486][595]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-06.44.04:194][674]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-06.44.04:225][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-06.44.04:225][674]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 12:44:04)
+[2019.09.02-06.44.04:225][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-06.44.04:227][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001856s)
+[2019.09.02-06.44.04:228][674]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-06.44.04:228][674]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.09.02-06.44.04:228][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.002725s)
+[2019.09.02-06.44.04:429][674]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-06.44.04:490][674]LogInit: FAudioDevice initialized.
+[2019.09.02-06.44.04:540][674]LogUObjectGlobals: Warning: 'Class /Script/featurePredictor.featurePredictorGameMode' 오브젝트를 찾는 데 실패했습니다.
+[2019.09.02-06.44.04:540][674]LogLoad: Game class is 'GameModeBase'
+[2019.09.02-06.44.04:542][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-15.44.04
+[2019.09.02-06.44.04:542][674]LogWorld: Bringing up level for play took: 0.000602
+[2019.09.02-06.44.04:552][674]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2019.09.02-06.44.05:124][674]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: 0.246
+[2019.09.02-07.20.40:798][789]LogSlate: Window 'BP_cubemapBillboard' being destroyed
+[2019.09.02-07.20.45:809][298]LogSlate: Window 'BP_cubemapBillboard' being destroyed
+[2019.09.02-07.20.59:671][297]LogSlate: Window 'BP_cubemapBillboard' being destroyed
+[2019.09.02-07.21.13:166][778]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.02-07.21.13:906][778]LogHotReload: New module detected: UE4Editor-featurePredictor-4041.dll
+[2019.09.02-07.21.13:927][779]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.02-07.21.14:369][779]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0036 seconds. Added 1 classes and 2 folders.
+[2019.09.02-07.21.14:373][779]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-07.21.14:448][779]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2454 classes and 562 folders.
+[2019.09.02-07.21.14:767][779]Display: HotReload took  0.8s.
+[2019.09.02-07.21.27:735][984]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.09.02-07.21.30:896][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Saved/Autosaves/Game/Maps/defaultMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.09.02-07.21.30:936][340]LogSavePackage: Save=30.95ms
+[2019.09.02-07.21.30:936][340]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap_Auto1A4FBB92741E8B4EE540C76A244776AFB.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Autosaves/Game/Maps/defaultMap_Auto1.umap'
+[2019.09.02-07.21.30:937][340]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Saved/Autosaves/Game/Maps/defaultMap_Auto1.umap
+[2019.09.02-07.21.30:942][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultMap' took 0.097
+[2019.09.02-07.21.30:942][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.097
+[2019.09.02-07.21.30:944][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/NewBlueprint] ([1] browsable assets)...
+[2019.09.02-07.21.30:944][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/NewBlueprint]
+[2019.09.02-07.21.30:944][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NewBlueprint" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Saved/Autosaves/Game/BluePrints/NewBlueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.02-07.21.30:958][340]LogSavePackage: Save=11.44ms
+[2019.09.02-07.21.30:958][340]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/NewBlueprint_Auto17AFC4F234B82E355BDC877A9FB2AA4ED.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/Autosaves/Game/BluePrints/NewBlueprint_Auto1.uasset'
+[2019.09.02-07.21.30:959][340]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Saved/Autosaves/Game/BluePrints/NewBlueprint_Auto1.uasset
+[2019.09.02-07.21.30:959][340]LogFileHelpers: Auto-saving content packages took 0.016
+[2019.09.02-07.21.33:025][512]LogRenderer: Reallocating scene render targets to support 1272x696 Format 9 NumSamples 1 (Frame:1).
+[2019.09.02-07.21.34:754][662]LogSlate: Window 'NewBlueprint*' being destroyed
+[2019.09.02-07.21.42:724][593]LogMetaData: Removing '/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2019.09.02-07.21.42:724][593]LogMetaData: Removing '/Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2019.09.02-07.21.42:724][593]LogMetaData: Removing '/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard_C' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2019.09.02-07.21.42:724][593]LogMetaData: Removing '/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2019.09.02-07.21.42:724][593]LogMetaData: Removing '/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2019.09.02-07.21.42:724][593]LogMetaData: Removing '/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/NewBlueprint.PackageMetaData'
+[2019.09.02-07.21.42:758][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.21.42:773][593]LogSavePackage: Save=11.41ms
+[2019.09.02-07.21.42:773][593]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard77E7D3204B758157CF0FBBAB50B22007.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.21.42:776][593]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.21.46:522][979]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.21.50:459][395]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.21.53:693][626]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.02-07.22.00:151][757]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.09.02-07.22.06:543][406]LogSlate: Window 'BP*' being destroyed
+[2019.09.02-07.22.09:270][575]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.09.02-07.22.09:309][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP.uasset" SILENT=true
+[2019.09.02-07.22.09:326][575]LogSavePackage: Save=13.78ms
+[2019.09.02-07.22.09:326][575]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP02FA49FA4B235978C13607A40249532A.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP.uasset'
+[2019.09.02-07.22.09:329][575]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP.uasset
+[2019.09.02-07.22.09:535][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.22.09:586][575]LogSavePackage: Save=30.02ms
+[2019.09.02-07.22.09:586][575]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMapC988DA34464D7675853CF3AB70F6C91A.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.22.09:589][575]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.22.09:620][575]LogFileHelpers: Saving map 'defaultMap' took 0.289
+[2019.09.02-07.22.13:573][ 40]LogMetaData: Removing '/Game/BluePrints/BP_Cubemap.BP_Cubemap:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/BP.PackageMetaData'
+[2019.09.02-07.22.13:573][ 40]LogMetaData: Removing '/Game/BluePrints/BP_Cubemap.SKEL_BP_Cubemap_C' ref from Metadata '/Game/BluePrints/BP.PackageMetaData'
+[2019.09.02-07.22.13:573][ 40]LogMetaData: Removing '/Game/BluePrints/BP_Cubemap.BP_Cubemap_C' ref from Metadata '/Game/BluePrints/BP.PackageMetaData'
+[2019.09.02-07.22.13:573][ 40]LogMetaData: Removing '/Game/BluePrints/BP_Cubemap.BP_Cubemap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/BP.PackageMetaData'
+[2019.09.02-07.22.13:573][ 40]LogMetaData: Removing '/Game/BluePrints/BP_Cubemap.BP_Cubemap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/BP.PackageMetaData'
+[2019.09.02-07.22.13:573][ 40]LogMetaData: Removing '/Game/BluePrints/BP_Cubemap.BP_Cubemap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/BP.PackageMetaData'
+[2019.09.02-07.22.13:603][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Cubemap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_Cubemap.uasset" SILENT=true
+[2019.09.02-07.22.13:619][ 40]LogSavePackage: Save=13.23ms
+[2019.09.02-07.22.13:619][ 40]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_Cubemap33DBC8E646B03A10E043FFB36EA64272.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_Cubemap.uasset'
+[2019.09.02-07.22.13:622][ 40]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_Cubemap.uasset
+[2019.09.02-07.22.19:092][618]LogSlate: Window 'BP_Cubemap' being destroyed
+[2019.09.02-07.22.23:400][ 82]LogSlate: Window 'BP_Cubemap' being destroyed
+[2019.09.02-07.22.23:404][ 82]LogSlate: Window 'BP_Cubemap' being destroyed
+[2019.09.02-07.22.27:473][551]LogMetaData: Removing '/Game/BluePrints/BP.BP_C' ref from Metadata '/Game/BluePrints/BP_Cubemap.PackageMetaData'
+[2019.09.02-07.22.27:473][551]LogMetaData: Removing '/Game/BluePrints/BP.SKEL_BP_C' ref from Metadata '/Game/BluePrints/BP_Cubemap.PackageMetaData'
+[2019.09.02-07.22.27:473][551]LogMetaData: Removing '/Game/BluePrints/BP.BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/BP_Cubemap.PackageMetaData'
+[2019.09.02-07.22.27:473][551]LogMetaData: Removing '/Game/BluePrints/BP.BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/BP_Cubemap.PackageMetaData'
+[2019.09.02-07.22.27:473][551]LogMetaData: Removing '/Game/BluePrints/BP.BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/BP_Cubemap.PackageMetaData'
+[2019.09.02-07.22.27:473][551]LogMetaData: Removing '/Game/BluePrints/BP.BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/BP_Cubemap.PackageMetaData'
+[2019.09.02-07.22.27:505][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP.uasset" SILENT=true
+[2019.09.02-07.22.27:518][551]LogSavePackage: Save=11.43ms
+[2019.09.02-07.22.27:519][551]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP57074D3B4DE3E77A2D1C4CB19394BC75.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP.uasset'
+[2019.09.02-07.22.27:521][551]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP.uasset
+[2019.09.02-07.22.29:579][735]LogSlate: Window 'BP' being destroyed
+[2019.09.02-07.22.29:584][735]LogSlate: Window 'BP' being destroyed
+[2019.09.02-07.22.32:198][881]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.02-07.22.41:399][322]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.09.02-07.22.49:604][211]LogSlate: Window 'BP_CubemapBillboard*' being destroyed
+[2019.09.02-07.22.49:609][211]LogSlate: Window 'BP_CubemapBillboard*' being destroyed
+[2019.09.02-07.22.50:279][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.22.50:292][260]LogSavePackage: Save=11.01ms
+[2019.09.02-07.22.50:292][260]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboardBE5778C74481E57ABC3085AA70E95155.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.22.50:295][260]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.22.53:078][546]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.22.53:082][546]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.23.01:929][438]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.02-07.23.08:715][552]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.09.02-07.23.40:311][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.23.44:721][376]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2019.09.02-07.23.45:516][438]LogEditorTransaction: Undo 컴포넌트 붙여넣기
+[2019.09.02-07.23.48:709][607]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BillboardFront_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BillboardFront_GEN_VARIABLE
+[2019.09.02-07.23.50:761][697]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BillboardRight_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BillboardRight_GEN_VARIABLE
+[2019.09.02-07.23.53:390][808]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BillboardLeft_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BillboardLeft_GEN_VARIABLE
+[2019.09.02-07.23.55:578][909]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BillboardRear_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BillboardRear_GEN_VARIABLE
+[2019.09.02-07.23.57:713][997]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BillboardTop_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BillboardTop_GEN_VARIABLE
+[2019.09.02-07.24.00:244][127]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.BillboardBottom_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.BillboardBottom_GEN_VARIABLE
+[2019.09.02-07.24.20:094][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.25.12:349][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-07.25.12:366][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.25.12:396][388]LogSavePackage: Save=26.14ms
+[2019.09.02-07.25.12:396][388]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboardEAE751194FBCF0A0607D22AE9D946553.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.25.12:399][388]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.25.13:254][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.25.13:316][439]LogSavePackage: Save=43.99ms
+[2019.09.02-07.25.13:317][439]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard8C3043FE4EA9E53636A15FAEEFA6DF96.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.25.13:320][439]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.25.13:899][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.25.13:923][482]LogSavePackage: Save=20.63ms
+[2019.09.02-07.25.13:923][482]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboardF36EAE3C4AAEBBB77EF3A3BF55085E25.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.25.13:925][482]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.25.14:842][558]BlueprintLog: New page: BP_CubemapBillboard 컴파일
+[2019.09.02-07.25.16:314][654]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.25.16:322][654]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.25.19:490][970]LogSlate: Took 0.000519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.02-07.25.22:358][185]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.25.22:365][185]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.25.26:294][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.25.37:789][259]LogEditorViewport: Clicking on Actor (LMB): BP_CubemapBillboard_C (BP_CubemapBillboard)
+[2019.09.02-07.25.38:804][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.25.43:479][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.25.43:795][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.25.43:851][915]LogSavePackage: Save=35.78ms
+[2019.09.02-07.25.43:851][915]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMapC5A51C69457B2212A8EE89BB9BDF13E1.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.25.43:854][915]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.25.44:843][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.25.44:898][ 15]LogSavePackage: Save=36.25ms
+[2019.09.02-07.25.44:899][ 15]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap64C59A084975562F5E8C30ABC1EAFFE8.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.25.44:900][ 15]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.25.45:085][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.25.45:163][ 26]LogSavePackage: Save=42.75ms
+[2019.09.02-07.25.45:163][ 26]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap1FE14B984B5943364DB587A7143E602C.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.25.45:164][ 26]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.25.45:266][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.25.45:321][ 29]LogSavePackage: Save=35.51ms
+[2019.09.02-07.25.45:321][ 29]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMapB51156774AA3F4A84BF5379765996B13.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.25.45:322][ 29]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.26.04:529][230]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.26.04:551][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-07.26.04:552][230]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:26:04)
+[2019.09.02-07.26.04:552][230]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.26.04:554][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002239s)
+[2019.09.02-07.26.04:555][230]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.26.04:555][230]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2019.09.02-07.26.04:555][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.003331s)
+[2019.09.02-07.26.04:780][230]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.26.04:842][230]LogInit: FAudioDevice initialized.
+[2019.09.02-07.26.04:873][230]LogLoad: Game class is 'GameModeBase'
+[2019.09.02-07.26.04:875][230]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.26.04
+[2019.09.02-07.26.04:875][230]LogWorld: Bringing up level for play took: 0.001335
+[2019.09.02-07.26.05:120][230]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: 0.242
+[2019.09.02-07.26.09:594][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-07.26.09:599][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.26.09:661][746]LogSavePackage: Save=42.66ms
+[2019.09.02-07.26.09:661][746]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMapDA77E90342014426590C5AB51A12C009.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.26.09:665][746]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.26.11:032][903]MapCheck: New page: 맵 체크
+[2019.09.02-07.26.11:065][903]Cmd: MAP REBUILD ALLVISIBLE
+[2019.09.02-07.26.11:066][903]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.09.02-07.26.11:261][903]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.09.02-07.26.11:276][903]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2019.09.02-07.26.12:305][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.02-07.26.12:305][903]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.02-07.26.12:305][903]TextureStreamingBuild: Display: Compiling optional shaders took 1.050 seconds.
+[2019.09.02-07.26.12:315][903]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2019.09.02-07.26.12:326][903]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2019.09.02-07.26.12:343][903]LightingResults: New page: 라이팅 빌드 - 2019. 9. 3. 오전 1:26:12
+[2019.09.02-07.26.12:421][903]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.02-07.26.12:699][903]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.02-07.26.12:733][903]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.02-07.26.14:290][903]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.02-07.26.14:290][903]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14520
+[2019.09.02-07.26.21:362][903]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.09.02-07.26.21:363][903]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.02-07.26.21:363][903]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.02-07.26.21:363][903]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.02-07.26.21:363][903]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.02-07.26.21:363][903]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.02-07.26.21:681][903]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.09.02-07.26.21:681][903]MapCheck: New page: defaultMap - 2019. 9. 3. 오전 1:26:21
+[2019.09.02-07.26.21:854][903]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 173.296ms.
+[2019.09.02-07.26.21:878][903]LogEditorBuildUtils: Build time 0:10
+[2019.09.02-07.26.21:907][903]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2019.09.02-07.26.21:914][903]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2019.09.02-07.26.21:932][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.02-07.26.21:937][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.02-07.26.24:793][913]Job is a success!
+[2019.09.02-07.26.25:639][914]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.061s
+[2019.09.02-07.26.25:640][914]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.09.02-07.26.25:640][914]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.09.02-07.26.25:640][914]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.02-07.26.25:640][914]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.09.02-07.26.25:640][914]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.09.02-07.26.25:640][914]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.09.02-07.26.25:680][914]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2019.09.02-07.26.25:680][914]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2019.09.02-07.26.25:681][914]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 32X32)
+[2019.09.02-07.26.25:721][914]Lightmass on DESKTOP-NSALLV0: 2.08 sec total, 246 ms importing, 22 ms setup, 398 ms photons, 1.28 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 8.80 sec total, 97 ms processing.
+[2019.09.02-07.26.25:742][914]LogStaticLightingSystem: Illumination: 13.0 sec (14 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.09.02-07.26.25:742][914]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.09.02-07.26.25:742][914]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.09.02-07.26.26:362][914]DumpUnbuiltLightIteractions
+[2019.09.02-07.26.26:362][914]Lights with unbuilt interactions: 0
+[2019.09.02-07.26.26:362][914]
+[2019.09.02-07.26.26:362][914]Primitives with unbuilt interactions: 0
+[2019.09.02-07.26.26:485][915]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.02-07.26.26:485][915]MapCheck: New page: defaultMap - 2019. 9. 3. 오전 1:26:26
+[2019.09.02-07.26.26:679][915]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 193.357ms.
+[2019.09.02-07.27.58:790][745]LogHotReload: New module detected: UE4Editor-featurePredictor-3792.dll
+[2019.09.02-07.28.00:394][805]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.02-07.28.00:464][805]LogClass: Could not find existing class panoramaReader in package /Script/featurePredictor for HotReload, assuming new class
+[2019.09.02-07.28.00:470][805]LogHotReload: Re-instancing panoramaReader after hot-reload.
+[2019.09.02-07.28.00:895][805]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2019.09.02-07.28.00:898][805]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-07.28.00:932][805]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2454 classes and 562 folders.
+[2019.09.02-07.28.01:261][805]Display: HotReload took  0.9s.
+[2019.09.02-07.28.15:931][236]LogSlate: Took 0.006429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.02-07.28.59:015][293]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.770 s
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: 
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 45]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: Stack: 
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C2E0B706 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:234]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C2B6AE3A UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:299]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C2B7ECD6 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:430]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C26EB95C UE4Editor-CoreUObject.dll!FSoftObjectPath::SetPath() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\softobjectpath.cpp:45]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C25FD47F UE4Editor-CoreUObject.dll!UObjectPropertyBase::FindImportedObject() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\propertybaseobject.cpp:385]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C261549F UE4Editor-CoreUObject.dll!UObjectPropertyBase::ParseObjectPropertyValue() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\propertybaseobject.cpp:287]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C260DAEF UE4Editor-CoreUObject.dll!UObjectPropertyBase::ImportText_Internal() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\propertybaseobject.cpp:322]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C266219E UE4Editor-CoreUObject.dll!UObjectProperty::ImportText_Internal() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\private\uobject\propertyobject.cpp:103]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C2389404 UE4Editor-CoreUObject.dll!UProperty::ImportText() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\coreuobject\public\uobject\unrealtype.h:307]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000BDA143B2 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::PropertyValueFromString_Direct() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:8153]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C15C7785 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CopyTermDefaultsToDefaultObject() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:1106]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C15FC23C UE4Editor-KismetCompiler.dll!FKismetCompilerContext::PropagateValuesToCDO() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:1131]
+[2019.09.02-07.28.59:015][293]LogOutputDevice: Error: [Callstack] 0x00000000C15BD10E UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileFunctions() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:4017]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C15B8A45 UE4Editor-KismetCompiler.dll!FKismet2CompilerModule::CompileBlueprintInner() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetcompiler\private\kismetcompilermodule.cpp:133]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C15B7C47 UE4Editor-KismetCompiler.dll!FKismet2CompilerModule::CompileBlueprint() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetcompiler\private\kismetcompilermodule.cpp:219]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000BDA0B843 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::MarkBlueprintAsStructurallyModified() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:2096]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000BD9E88C9 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::ChangeMemberVariableType() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:4754]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000BCAD6FB3 UE4Editor-Kismet.dll!FBlueprintVarActionDetails::OnVarTypeChanged() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismet\private\blueprintdetailscustomization.cpp:1302]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000BCA716FC UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintVarActionDetails,0,TTypeWrapper<void> __cdecl(FEdGraphPinType const & __ptr64)>::Execute() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000BCA75A8C UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintVarActionDetails,0,void __cdecl(FEdGraphPinType const & __ptr64)>::ExecuteIfSafe() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16F90A4 UE4Editor-KismetWidgets.dll!SPinTypeSelector::OnSelectPinType() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetwidgets\private\spintypeselector.cpp:815]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16F7321 UE4Editor-KismetWidgets.dll!SPinTypeSelector::OnObjectReferenceSelectionChanged() [d:\build\++ue4+release-4.19+compile\sync\engine\source\editor\kismetwidgets\private\spintypeselector.cpp:678]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16D88D0 UE4Editor-KismetWidgets.dll!TBaseSPMethodDelegateInstance<0,SPinTypeSelector,0,TTypeWrapper<void> __cdecl(TSharedPtr<FObjectReferenceType,0>,enum ESelectInfo::Type),bool>::Execute() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16DA29A UE4Editor-KismetWidgets.dll!TBaseSPMethodDelegateInstance<0,SPinTypeSelector,0,void __cdecl(TSharedPtr<FObjectReferenceType,0>,enum ESelectInfo::Type),bool>::ExecuteIfSafe() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:345]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16D96D7 UE4Editor-KismetWidgets.dll!TBaseDelegate<void,TSharedPtr<FObjectReferenceType,0>,enum ESelectInfo::Type>::ExecuteIfBound() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:624]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16FE8AC UE4Editor-KismetWidgets.dll!SListView<TSharedPtr<FObjectReferenceType,0> >::Private_SignalSelectionChanged() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\public\widgets\views\slistview.h:729]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C16F174B UE4Editor-KismetWidgets.dll!SComboRow<TSharedPtr<FObjectReferenceType,0> >::OnMouseButtonDown() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\public\widgets\input\scombobox.h:75]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C1E45366 UE4Editor-Slate.dll!<lambda_7097b900f0e4be30d80fb18f98c51ea0>::operator()() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5348]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C1E172DC UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_7097b900f0e4be30d80fb18f98c51ea0> >() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:266]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C1EADAB7 UE4Editor-Slate.dll!FSlateApplication::RoutePointerDownEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5337]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C1E9782C UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonDownEvent() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5290]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000C1E8AD33 UE4Editor-Slate.dll!FSlateApplication::OnMouseDown() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5208]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000E400E73E UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1734]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000E4001B78 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2172]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000E401052C UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:889]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000E3FFD679 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:726]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000FBD7681D USER32.dll!UnknownFunction []
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000FBD76212 USER32.dll!UnknownFunction []
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000E4011666 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2019.09.02-07.28.59:016][293]LogOutputDevice: Error: [Callstack] 0x00000000BAE55475 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3263]
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: [Callstack] 0x00000000BAE66BD0 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: [Callstack] 0x00000000BAE66C4A UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: [Callstack] 0x00000000BAE74177 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: [Callstack] 0x00000000BAE75B87 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: [Callstack] 0x00000000FBF17BD4 KERNEL32.DLL!UnknownFunction []
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: [Callstack] 0x00000000FC1CCE71 ntdll.dll!UnknownFunction []
+[2019.09.02-07.28.59:017][293]LogOutputDevice: Error: 
+[2019.09.02-07.28.59:028][293]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.02-07.29.00:917][293]LogStats:                    SendNewReport -  1.890 s
+[2019.09.02-07.29.00:917][293]LogStats:             FDebug::EnsureFailed -  7.673 s
+[2019.09.02-07.29.57:417][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.29.57:451][765]LogSavePackage: Save=29.55ms
+[2019.09.02-07.29.57:452][765]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard12AA971D490D4F77065890A433BFE89A.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.29.57:455][765]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.29.58:499][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.29.58:524][853]LogSavePackage: Save=22.83ms
+[2019.09.02-07.29.58:525][853]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard35AD52554A8B0C8C4F1B2A841B8E831E.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.29.58:526][853]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.29.58:890][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.29.58:915][867]LogSavePackage: Save=21.86ms
+[2019.09.02-07.29.58:915][867]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard0C8EDC624F330D35F19BC881EC7C4FAC.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.29.58:917][867]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.29.59:287][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.29.59:313][885]LogSavePackage: Save=22.28ms
+[2019.09.02-07.29.59:313][885]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard6090D3604E8F168D495C5F82BFEE9C04.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.29.59:314][885]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.30.18:453][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.30.18:484][817]LogSavePackage: Save=21.77ms
+[2019.09.02-07.30.18:484][817]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboardBF023B604C2E1EDCBE89C8A48593A9E9.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.30.18:487][817]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.30.21:275][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.30.21:367][121]LogSavePackage: Save=37.51ms
+[2019.09.02-07.30.21:367][121]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap8CFDECDE435F755AADC2A6B7CE9711EB.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.30.21:370][121]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.30.21:420][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap_BuiltData" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset" SILENT=true
+[2019.09.02-07.30.21:443][121]LogSavePackage: Save=13.42ms
+[2019.09.02-07.30.21:443][121]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap_BuiltDataBD083BE940C9C7736D3FA99BE010BEA3.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset'
+[2019.09.02-07.30.21:447][121]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset
+[2019.09.02-07.30.29:262][793]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.30.29:267][793]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.31.34:924][490]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe featurePredictor Win64 Development -editorrecompile "D:/Unreal_Project/4.19.2/featurePredictor/featurePredictor.uproject" -invalidatemakefilesonly
+[2019.09.02-07.31.35:337][490]Invalidating makefiles only in this run.
+[2019.09.02-07.31.35:617][490]Candidate modules for hot reload:
+[2019.09.02-07.31.35:617][490]  featurePredictor
+[2019.09.02-07.31.35:617][490]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe featurePredictor -ModuleWithSuffix=featurePredictor,598 Win64 Development -editorrecompile -canskiplink "D:/Unreal_Project/4.19.2/featurePredictor/featurePredictor.uproject" ]
+[2019.09.02-07.32.25:712][490]CompilerResultsLog: New page: 컴파일 - 2019. 9. 3. 오전 1:32:25
+[2019.09.02-07.32.25:712][490]CompilerResultsLog: Creating makefile for hot reloading featurePredictor (no existing makefile)
+[2019.09.02-07.32.25:712][490]CompilerResultsLog: Compiling game modules for hot reload
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: Parsing headers for featurePredictorEditor
+[2019.09.02-07.32.25:713][490]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_Project\4.19.2\featurePredictor\featurePredictor.uproject" "D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\featurePredictorEditor\Development\featurePredictorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: Reflection code generated for featurePredictorEditor in 11.5719323 seconds
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: featurePredictor.init.gen.cpp
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: MyPawn.gen.cpp
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: MyPawn.cpp
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: [4/5] Link UE4Editor-featurePredictor-598.dll
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: [5/5] Link UE4Editor-featurePredictor-598.lib
+[2019.09.02-07.32.25:713][490]CompilerResultsLog:    D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor-598.lib ???̺귯?? ?? D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor-598.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.09.02-07.32.25:713][490]CompilerResultsLog:    D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor-598.suppressed.lib ???̺귯?? ?? D:\Unreal_Project\4.19.2\featurePredictor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-featurePredictor-598.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2019.09.02-07.32.25:713][490]CompilerResultsLog: Total build time: 49.76 seconds (Local executor: 2.84 seconds)
+[2019.09.02-07.32.25:713][490]LogMainFrame: MainFrame: Module compiling took 50.117 seconds
+[2019.09.02-07.32.26:138][490]LogClass: Could not find existing class MyPawn in package /Script/featurePredictor for HotReload, assuming new class
+[2019.09.02-07.32.26:143][490]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2019.09.02-07.32.26:145][490]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-07.32.26:231][490]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2455 classes and 562 folders.
+[2019.09.02-07.32.26:585][490]Display: HotReload took 51.0s.
+[2019.09.02-07.32.26:593][490]Warning: HotReload operation took 51.0s.
+[2019.09.02-07.32.26:826][490]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Unreal_Project/4.19.2/featurePredictor/Source/featurePredictor/MyPawn.h'
+[2019.09.02-07.32.26:945][490]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Unreal_Project/4.19.2/featurePredictor/Source/featurePredictor/MyPawn.cpp'
+[2019.09.02-07.32.26:963][490]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2019.09.02-07.32.26:980][490]LogHotReload: New module detected: UE4Editor-featurePredictor-598.dll
+[2019.09.02-07.32.27:039][491]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.02-07.32.27:149][491]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0019 seconds. Added 2 classes and 2 folders.
+[2019.09.02-07.32.27:151][491]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-07.32.27:210][491]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2455 classes and 562 folders.
+[2019.09.02-07.32.27:682][491]Display: HotReload took  0.6s.
+[2019.09.02-07.34.19:175][608]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.02-07.34.20:295][610]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.featurePredictor
+[2019.09.02-07.34.20:295][610]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.09.02-07.34.20:295][610]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2019.09.02-07.34.20:295][610]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.09.02-07.34.20:295][610]LogTemp: BranchPath = DESKTOP-NSALLV0/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-NSALLV0/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2019.09.02-07.34.20:295][610]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\KISIK\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.09.02-07.35.18:298][661]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.09.02-07.35.18:304][661]LogSlate: Window '프로젝트 세팅' being destroyed
+[2019.09.02-07.36.38:026][248]LogHotReload: New module detected: UE4Editor-featurePredictor-4620.dll
+[2019.09.02-07.36.39:711][254]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.02-07.36.40:112][254]LogClass: Could not find existing class MyPawn in package /Script/featurePredictor for HotReload, assuming new class
+[2019.09.02-07.36.40:118][254]LogHotReload: Re-instancing MyPawn after hot-reload.
+[2019.09.02-07.36.40:195][254]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0021 seconds. Added 2 classes and 2 folders.
+[2019.09.02-07.36.40:198][254]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-07.36.40:257][254]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2455 classes and 562 folders.
+[2019.09.02-07.36.40:574][254]Display: HotReload took  0.9s.
+[2019.09.02-07.37.05:802][ 30]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.09.02-07.37.16:645][150]LogSlate: Window 'BP_PlayerController*' being destroyed
+[2019.09.02-07.37.16:650][150]LogSlate: Window 'BP_PlayerController*' being destroyed
+[2019.09.02-07.37.17:605][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.37.17:699][251]LogSavePackage: Save=36.35ms
+[2019.09.02-07.37.17:700][251]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMapE55C57A444377F183C07878A2BC68D9B.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.37.17:701][251]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.37.17:736][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap_BuiltData" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset" SILENT=true
+[2019.09.02-07.37.17:755][251]LogSavePackage: Save=9.74ms
+[2019.09.02-07.37.17:755][251]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap_BuiltDataB277929C4D39545A726BD28CE54B57FD.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset'
+[2019.09.02-07.37.17:757][251]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset
+[2019.09.02-07.37.28:996][579]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.09.02-07.37.48:438][963]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.02-07.38.02:617][308]BlueprintLog: New page: BP_GameMode 컴파일
+[2019.09.02-07.38.04:077][424]LogSlate: Window 'BP_GameMode*' being destroyed
+[2019.09.02-07.38.04:082][424]LogSlate: Window 'BP_GameMode*' being destroyed
+[2019.09.02-07.38.06:338][555]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.09.02-07.38.06:377][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Play/BP_GameMode" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/Play/BP_GameMode.uasset" SILENT=true
+[2019.09.02-07.38.06:393][555]LogSavePackage: Save=13.51ms
+[2019.09.02-07.38.06:393][555]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_GameMode5D4F132644F2933B649E7996AD07F6C8.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/Play/BP_GameMode.uasset'
+[2019.09.02-07.38.06:399][555]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/Play/BP_GameMode.uasset
+[2019.09.02-07.38.06:402][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Play/BP_PlayerController" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/Play/BP_PlayerController.uasset" SILENT=true
+[2019.09.02-07.38.06:416][555]LogSavePackage: Save=11.41ms
+[2019.09.02-07.38.06:416][555]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_PlayerControllerA26DD21148C6596EE3DC96B108A5A76F.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/Play/BP_PlayerController.uasset'
+[2019.09.02-07.38.06:419][555]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/Play/BP_PlayerController.uasset
+[2019.09.02-07.38.09:793][916]LogSlate: Window 'BP_PlayerController' being destroyed
+[2019.09.02-07.38.09:798][916]LogSlate: Window 'BP_PlayerController' being destroyed
+[2019.09.02-07.38.24:641][382]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.02-07.38.30:096][ 18]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.38.30:127][ 18]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.09.02-07.38.30:129][ 18]LogPlayLevel: [PlayLevel] Compiling BP_CubemapBillboard before play...
+[2019.09.02-07.38.30:132][ 18]LogClass: Warning: Type mismatch in DMTop of BP_CubemapBillboard_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.09.02-07.38.30:490][ 18]LogPlayLevel: PlayLevel: Blueprint regeneration took 363 ms (1 blueprints)
+[2019.09.02-07.38.30:491][ 18]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:38:30)
+[2019.09.02-07.38.30:491][ 18]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.38.30:493][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002285s)
+[2019.09.02-07.38.30:494][ 18]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.38.30:494][ 18]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2019.09.02-07.38.30:494][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.003220s)
+[2019.09.02-07.38.30:736][ 18]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.38.30:795][ 18]LogInit: FAudioDevice initialized.
+[2019.09.02-07.38.30:831][ 18]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.02-07.38.30:834][ 18]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.38.30
+[2019.09.02-07.38.30:835][ 18]LogWorld: Bringing up level for play took: 0.002114
+[2019.09.02-07.38.30:861][ 18]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: -0.016
+[2019.09.02-07.38.37:681][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-07.38.37:687][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.38.37:746][806]LogSavePackage: Save=38.03ms
+[2019.09.02-07.38.37:747][806]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap449AB693449EED64DB1792B6AB9AE840.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.38.37:750][806]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.38.37:782][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap_BuiltData" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset" SILENT=true
+[2019.09.02-07.38.37:795][806]LogSavePackage: Save=9.44ms
+[2019.09.02-07.38.37:795][806]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap_BuiltDataDEB41272472B05908416F38574C1EA2D.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset'
+[2019.09.02-07.38.37:797][806]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset
+[2019.09.02-07.38.37:924][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.38.37:980][817]LogSavePackage: Save=36.91ms
+[2019.09.02-07.38.37:981][817]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap50C4C7AE42DFA30ABFA84D84D04EC50A.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.38.37:982][817]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.38.38:015][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap_BuiltData" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset" SILENT=true
+[2019.09.02-07.38.38:043][817]LogSavePackage: Save=20.52ms
+[2019.09.02-07.38.38:043][817]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap_BuiltDataA6AFFBEA42AFD766ADD966A72E94D184.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset'
+[2019.09.02-07.38.38:047][817]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset
+[2019.09.02-07.38.55:943][512]LogLinker: '/Script/Lesson04' 파일을 찾을 수 없습니다.
+[2019.09.02-07.38.55:943][512]LogLinker: '/Script/Lesson04' 파일을 찾을 수 없습니다.
+[2019.09.02-07.38.55:943][512]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'Class'"/Script/Lesson04.MyPawn"''
+[2019.09.02-07.38.55:944][512]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'Class'"/Script/Lesson04.MyPawn"',MemberName="Camera")'
+[2019.09.02-07.38.55:946][512]LogBlueprint: Warning: [BP_CubemapBillboard] 'Camera' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.39.33:258][373]LogEditorTransaction: Undo 핀 링크 끊기
+[2019.09.02-07.39.33:260][373]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda4e60f40, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.40.17:777][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.40.17:826][677]LogSavePackage: Save=36.83ms
+[2019.09.02-07.40.17:826][677]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard89BE628B42753DC89C3A9CB70B0F78DF.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.40.17:829][677]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.40.19:160][762]BlueprintLog: New page: BP_CubemapBillboard 컴파일
+[2019.09.02-07.40.19:164][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda4e60f40, Size=4
+[2019.09.02-07.40.19:164][762]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de3250ae50, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_117:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.40.19:171][762]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de30f295a8, Size=40, Default__BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.40.19:499][762]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de3250ae50, Size=4
+[2019.09.02-07.40.20:725][834]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.40.20:730][834]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.40.21:905][958]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.40.21:937][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-07.40.21:937][958]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:40:21)
+[2019.09.02-07.40.21:937][958]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.40.21:940][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002240s)
+[2019.09.02-07.40.21:940][958]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.40.21:940][958]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2019.09.02-07.40.21:940][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.003212s)
+[2019.09.02-07.40.22:144][958]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.40.22:199][958]LogInit: FAudioDevice initialized.
+[2019.09.02-07.40.22:239][958]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.02-07.40.22:243][958]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.40.22
+[2019.09.02-07.40.22:243][958]LogWorld: Bringing up level for play took: 0.001976
+[2019.09.02-07.40.22:268][958]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: -0.61
+[2019.09.02-07.40.24:800][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.40.27:661][408]BlueprintLog: New page: BP_CubemapBillboard 컴파일
+[2019.09.02-07.40.27:670][408]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de30f295a8, Size=40
+[2019.09.02-07.40.27:670][408]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de0fd48298, Size=40, Default__BP_CubemapBillboard_C Function /Engine/Transient.REINST_BP_CubemapBillboard_C_123:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.40.27:671][408]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda7501d00, Size=4, Default__BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.40.29:704][554]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.40.29:727][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-07.40.29:728][554]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:40:29)
+[2019.09.02-07.40.29:728][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.40.29:730][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002055s)
+[2019.09.02-07.40.29:730][554]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.40.29:731][554]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.09.02-07.40.29:731][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.002941s)
+[2019.09.02-07.40.29:747][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de0fd48298, Size=40
+[2019.09.02-07.40.29:933][554]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.40.29:988][554]LogInit: FAudioDevice initialized.
+[2019.09.02-07.40.30:021][554]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.02-07.40.30:022][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.40.30
+[2019.09.02-07.40.30:022][554]LogWorld: Bringing up level for play took: 0.000877
+[2019.09.02-07.40.30:034][554]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: 1.157
+[2019.09.02-07.40.32:186][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.40.47:130][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.40.47:172][907]LogSavePackage: Save=38.52ms
+[2019.09.02-07.40.47:172][907]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard8D662F6242EC645568BFF19224FC849A.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.40.47:176][907]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.41.20:378][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRight' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:378][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRight' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:380][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialFront' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:380][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialFront' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:380][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialLeft' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:380][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialLeft' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:381][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRear' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:381][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRear' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:381][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialBottom' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:381][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialBottom' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:381][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialTop' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.20:381][179]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialTop' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.24:967][467]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2019.09.02-07.41.24:969][467]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd90a66e40, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRight' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRight' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialFront' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialFront' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialLeft' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialLeft' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRear' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRear' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialBottom' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:764][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialBottom' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:765][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialTop' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:765][582]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialTop' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.41.30:767][582]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd90a66e40, Size=4
+[2019.09.02-07.41.30:767][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd90a66e40, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_127:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.30:769][582]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd90a67348, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.40:986][244]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd90a67348, Size=4
+[2019.09.02-07.41.40:986][244]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ddf4e41070, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_129:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.40:988][244]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ddf4e42660, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.43:931][469]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ddf4e42660, Size=4
+[2019.09.02-07.41.43:931][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de32034c70, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_131:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.43:933][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de176b15e8, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.43:942][469]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de176b15e8, Size=4
+[2019.09.02-07.41.43:942][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de176b15e8, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_133:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.41.43:944][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de176b0278, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.34:650][314]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de176b0278, Size=4
+[2019.09.02-07.42.34:650][314]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de14a2d718, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_135:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.34:653][314]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de14a2d898, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.40:676][672]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialTop' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.42.40:676][672]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialBottom' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.42.40:676][672]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRear' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.42.40:676][672]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialLeft' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.42.40:676][672]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialFront' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.42.40:677][672]LogBlueprint: Warning: [BP_CubemapBillboard] 'DynamicMaterialRight' variable not found. Base class was probably changed. /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard
+[2019.09.02-07.42.40:679][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de14a2d898, Size=4
+[2019.09.02-07.42.40:679][672]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1579ab28, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_137:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.40:682][672]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1579af00, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.46:815][ 97]BlueprintLog: New page: BP_CubemapBillboard 컴파일
+[2019.09.02-07.42.46:836][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1579af00, Size=4
+[2019.09.02-07.42.46:836][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de320346c0, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_139:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.46:862][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda7501d00, Size=4
+[2019.09.02-07.42.46:862][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de320373d0, Size=4, Default__BP_CubemapBillboard_C Function /Engine/Transient.REINST_BP_CubemapBillboard_C_141:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.46:864][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialTop" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialTop 구하기  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialBottom" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialBottom 구하기  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialRear" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialRear 구하기  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialLeft" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialLeft 구하기  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialFront" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialFront 구하기  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialRight" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialRight 구하기  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialRight" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialRight 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialFront" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialFront 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:865][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialLeft" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialLeft 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:866][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialRear" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialRear 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:866][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialBottom" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialBottom 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:866][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialTop" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialTop 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Front  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Top  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Bottom  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Rear  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Left  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Right  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Right  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Front  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Left  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:868][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Rear  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:869][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Bottom  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:869][ 97]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Top  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.42.46:869][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8eeace80, Size=88, Default__BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de320346c0, Size=4
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1579ab28, Size=4
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de14a2d718, Size=4
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de176b15e8, Size=4
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de32034c70, Size=4
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd90a66e40, Size=4
+[2019.09.02-07.42.46:988][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ddf4e41070, Size=4
+[2019.09.02-07.42.47:004][ 97]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] [3788.88] BP_CubemapBillboard 컴파일에 실패했습니다. 치명적 오류 12 회, 경고 12 회, [소요시간 189 ms] (/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard)
+[2019.09.02-07.43.09:898][729]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [UMaterialInstanceDynamic::SetTextureParameterValue] - File [d:\build\++ue4+release-4.19+compile\sync\engine\source\runtime\engine\private\materials\materialinstancedynamic.cpp], Line [97], Column [0]
+[2019.09.02-07.43.09:959][729]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.09.02-07.43.09:966][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:966][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:967][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:967][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:967][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:967][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:967][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:968][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:969][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:970][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:971][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:972][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:972][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:972][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:972][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:972][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:972][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:973][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:974][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:975][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:976][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:977][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:978][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:979][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:983][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:983][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:986][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:986][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:987][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:987][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:988][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.09:988][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.10:044][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.10:057][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.10:058][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.10:058][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.10:131][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.43.10:131][729]LogVSAccessor: Warning: Couldn't access module table
+[2019.09.02-07.44.06:960][567]BlueprintLog: New page: BP_CubemapBillboard 컴파일
+[2019.09.02-07.44.06:993][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd8eeace80, Size=88
+[2019.09.02-07.44.06:994][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd85791180, Size=88, BP_CubemapBillboard_C_868 Function /Engine/Transient.REINST_BP_CubemapBillboard_C_145:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.44.06:996][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialRight" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialRight 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.44.06:996][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialFront" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialFront 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.44.06:997][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialLeft" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialLeft 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.44.06:997][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialRear" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialRear 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.44.06:997][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialBottom" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialBottom 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.44.06:997][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] 'BP_CubemapBillboard_C' 에서 "DynamicMaterialTop" 라는 이름의 변수를 찾을 수 없습니다.
+ DynamicMaterialTop 설정  에 대해 'BP_CubemapBillboard_C' 컴파일이 되었는지 확인하세요.
+[2019.09.02-07.44.06:998][567]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Front  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.44.06:998][567]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Top  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.44.06:998][567]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Bottom  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.44.06:998][567]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Rear  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.44.06:998][567]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Left  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.44.06:998][567]LogBlueprint: Error: [Compiler BP_CubemapBillboard] Dynamic Material Right  와 연관된 프로퍼티를 찾지 못했습니다.
+[2019.09.02-07.44.06:999][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df0ad1ff40, Size=88, Default__BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.44.07:094][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de320373d0, Size=4
+[2019.09.02-07.44.07:105][567]LogBlueprint: Warning: [Compiler BP_CubemapBillboard] [3868.98] BP_CubemapBillboard 컴파일에 실패했습니다. 치명적 오류 6 회, 경고 6 회, [소요시간 144 ms] (/Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard)
+[2019.09.02-07.44.21:256][579]LogEditorTransaction: Undo 노드 추가
+[2019.09.02-07.44.21:260][579]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df0bf48c78, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.SKEL_BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.45.39:389][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_CubemapBillboard" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset" SILENT=true
+[2019.09.02-07.45.39:473][900]LogSavePackage: Save=74.21ms
+[2019.09.02-07.45.39:474][900]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/BP_CubemapBillboard944EFB644BC33F8284625DBB0774697A.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset'
+[2019.09.02-07.45.39:477][900]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/BluePrints/BP_CubemapBillboard.uasset
+[2019.09.02-07.45.40:326][956]BlueprintLog: New page: BP_CubemapBillboard 컴파일
+[2019.09.02-07.45.40:342][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df0bf48c78, Size=4
+[2019.09.02-07.45.40:342][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001df0bf48c78, Size=4, Default__SKEL_BP_CubemapBillboard_C Function /Engine/Transient.REINST_SKEL_BP_CubemapBillboard_C_149:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.45.40:359][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df0ad1ff40, Size=88
+[2019.09.02-07.45.40:359][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd90733b20, Size=88, Default__BP_CubemapBillboard_C Function /Engine/Transient.REINST_BP_CubemapBillboard_C_151:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.45.40:363][956]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd907330a0, Size=88, Default__BP_CubemapBillboard_C Function /Game/BluePrints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2019.09.02-07.45.40:730][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd85791180, Size=88
+[2019.09.02-07.45.40:731][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df0bf48c78, Size=4
+[2019.09.02-07.45.42:808][ 95]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.45.42:814][ 95]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.45.44:778][309]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.45.44:796][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-07.45.44:797][309]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:45:44)
+[2019.09.02-07.45.44:797][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.45.44:799][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002262s)
+[2019.09.02-07.45.44:800][309]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.45.44:800][309]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2019.09.02-07.45.44:800][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.003330s)
+[2019.09.02-07.45.44:816][309]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd90733b20, Size=88
+[2019.09.02-07.45.45:005][309]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.45.45:083][309]LogInit: FAudioDevice initialized.
+[2019.09.02-07.45.45:118][309]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.02-07.45.45:119][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.45.45
+[2019.09.02-07.45.45:120][309]LogWorld: Bringing up level for play took: 0.000997
+[2019.09.02-07.45.45:139][309]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: 0.262
+[2019.09.02-07.45.47:704][589]LogEditorViewport: Clicking on Actor (LMB): BP_CubemapBillboard_C (BP_CubemapBillboard)
+[2019.09.02-07.45.50:214][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-07.46.08:263][957]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.46.08:282][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-07.46.08:282][957]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:46:08)
+[2019.09.02-07.46.08:282][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.46.08:285][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002367s)
+[2019.09.02-07.46.08:285][957]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.46.08:285][957]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2019.09.02-07.46.08:285][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.003385s)
+[2019.09.02-07.46.08:486][957]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.46.08:595][957]LogInit: FAudioDevice initialized.
+[2019.09.02-07.46.08:633][957]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.02-07.46.08:635][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.46.08
+[2019.09.02-07.46.08:635][957]LogWorld: Bringing up level for play took: 0.001102
+[2019.09.02-07.46.08:871][957]PIE: /Game/Maps/UEDPIE_0_defaultMap 에 대한 에디터에서 플레이 시작 시간: -0.006
+[2019.09.02-07.46.13:837][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-07.46.13:843][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.02-07.46.13:905][534]LogSavePackage: Save=36.99ms
+[2019.09.02-07.46.13:906][534]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMapA41539DC45CB8911E039D4B3117B0A3E.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap'
+[2019.09.02-07.46.13:909][534]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap.umap
+[2019.09.02-07.46.13:941][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultMap_BuiltData" FILE="D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset" SILENT=true
+[2019.09.02-07.46.13:961][534]LogSavePackage: Save=9.78ms
+[2019.09.02-07.46.13:961][534]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/featurePredictor/Saved/defaultMap_BuiltData8DD466BD49CFEABE09ECA48EB8143F26.tmp' to 'D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset'
+[2019.09.02-07.46.13:963][534]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/featurePredictor/Content/Maps/defaultMap_BuiltData.uasset
+[2019.09.02-07.47.24:976][857]LogHotReload: New module detected: UE4Editor-featurePredictor-8810.dll
+[2019.09.02-07.47.26:335][862]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.02-07.47.26:713][862]LogHotReload: Re-instancing MyPawn after hot-reload.
+[2019.09.02-07.47.26:832][862]LogContentBrowser: Native class hierarchy updated for 'featurePredictor' in 0.0021 seconds. Added 2 classes and 2 folders.
+[2019.09.02-07.47.26:835][862]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.02-07.47.26:907][862]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2455 classes and 562 folders.
+[2019.09.02-07.47.27:295][862]Display: HotReload took  1.0s.
+[2019.09.02-07.47.29:639][995]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.47.29:645][995]LogSlate: Window 'BP_CubemapBillboard' being destroyed
+[2019.09.02-07.47.30:602][ 96]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.02-07.47.30:620][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.02-07.47.30:621][ 96]PIE: New page: PIE 세션: defaultMap (2019. 9. 3. 오전 1:47:30)
+[2019.09.02-07.47.30:621][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultMap
+[2019.09.02-07.47.30:623][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002328s)
+[2019.09.02-07.47.30:624][ 96]LogAIModule: Creating AISystem for world defaultMap
+[2019.09.02-07.47.30:624][ 96]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.09.02-07.47.30:624][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultMap.defaultMap to /Game/Maps/UEDPIE_0_defaultMap.defaultMap (0.003343s)
+[2019.09.02-07.47.30:884][ 96]LogInit: XAudio2 using 'S27D850-8(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.02-07.47.30:945][ 96]LogInit: FAudioDevice initialized.
+[2019.09.02-07.47.30:979][ 96]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.02-07.47.30:980][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultMap.defaultMap up for play (max tick rate 0) at 2019.09.02-16.47.30
+[2019.09.02-07.47.30:981][ 96]LogWorld: Bringing up level for play took: 0.000890
